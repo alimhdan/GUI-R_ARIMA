@@ -3,7 +3,7 @@ My project as Research Assistant (OFFICIALLY PATENTED by Kementerian Hukum dan H
 
 Patent: https://e-hakcipta.dgip.go.id/index.php/c?code=OWY1NDhiYzI5Y2E5OTk2YTM4YWUzNjJiZGJhNjlhNDQK
 
-Detil GUI Project Result:
+Detail GUI Project Result:
 
 # Description
 GUI Maker
