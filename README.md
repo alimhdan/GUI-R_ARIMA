@@ -8,7 +8,7 @@ Detail GUI Project Result:
 # Description
 GUI Maker
 
-This GUI is used for modeling active cases of Covid-19 in Indonesia (National, DKI Jakarta, West Java, Central Java, and East Java) using the ARIMA method. In this GUI we can choose the division of training and test data, check assumptions automatically, and view the results of model evaluation with test data (based on plots and MAPE).
+This GUI is used for modeling active cases of Covid-19 in Indonesia (National, DKI Jakarta, West Java, Central Java, and East Java) using the ARIMA method. In this GUI we can choose the division of train and test data, check assumptions automatically, and view the results of model evaluation with test data (based on plots and MAPE).
 
 # Overview
 ![image](https://user-images.githubusercontent.com/102334577/161523747-7e4e97d5-04d6-4379-b768-2aedebeae2d3.png)
