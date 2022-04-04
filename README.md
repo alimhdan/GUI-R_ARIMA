@@ -1,4 +1,4 @@
-# GUI ARIMA
+# GUI R ARIMA
 My project as Research Assistant (OFFICIALLY PATENTED by Kementerian Hukum dan HAM RI)
 
 # Description
